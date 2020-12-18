@@ -1,0 +1,25 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,10,Federico Barba,0.03230063617229462,LeftFoot,SavedShot,0.96,0.710999984741211,SetPiece,Gianluca Caprari,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,12,Gianluca Lapadula,0.05986131727695465,Head,MissedShots,0.9309999847412109,0.5129999923706055,FromCorner,Gianluca Caprari,Aerial
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,34,Gianluca Lapadula,0.06812041997909546,Head,MissedShots,0.89,0.5279999923706055,OpenPlay,Gaetano Letizia,Cross
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,47,Pasquale Schiattarella,0.06888895481824875,RightFoot,SavedShot,0.8630000305175781,0.580999984741211,FromCorner,,TakeOn
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,47,Gaetano Letizia,0.022428419440984726,RightFoot,Goal,0.875,0.26,FromCorner,,None
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,47,Riccardo Improta,0.03814566135406494,RightFoot,MissedShots,0.8619999694824219,0.29,OpenPlay,Gianluca Lapadula,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,83,Marco Sau,0.12965057790279388,RightFoot,BlockedShot,0.879000015258789,0.5929999923706055,OpenPlay,Roberto Insigne,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Benevento,83,Riccardo Improta,0.020601646974682808,RightFoot,MissedShots,0.7809999847412109,0.3509999847412109,OpenPlay,Perparim Hetemaj,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,5,Paulo Dybala,0.05191962048411369,LeftFoot,BlockedShot,0.8690000152587891,0.3340000152587891,OpenPlay,,None
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,20,Álvaro Morata,0.048403140157461166,LeftFoot,Goal,0.8809999847412109,0.6840000152587891,OpenPlay,Federico Chiesa,Chipped
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,23,Adrien Rabiot,0.05492653697729111,LeftFoot,BlockedShot,0.874000015258789,0.7119999694824218,OpenPlay,Arthur,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,23,Federico Chiesa,0.020870735868811607,RightFoot,SavedShot,0.7090000152587891,0.4779999923706055,OpenPlay,Arthur,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,25,Paulo Dybala,0.35961687564849854,LeftFoot,MissedShots,0.8530000305175781,0.44799999237060545,OpenPlay,Aaron Ramsey,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,30,Aaron Ramsey,0.06780286133289337,LeftFoot,SavedShot,0.850999984741211,0.634000015258789,OpenPlay,Gianluca Frabotta,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,39,Paulo Dybala,0.10671621561050415,LeftFoot,BlockedShot,0.8780000305175781,0.5940000152587891,OpenPlay,Gianluca Frabotta,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,44,Paulo Dybala,0.046261779963970184,LeftFoot,MissedShots,0.774000015258789,0.26399999618530273,DirectFreekick,,Standard
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,50,Álvaro Morata,0.47849997878074646,Head,MissedShots,0.9669999694824218,0.56,OpenPlay,Federico Chiesa,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,52,Paulo Dybala,0.023208217695355415,LeftFoot,MissedShots,0.774000015258789,0.5629999923706055,OpenPlay,Álvaro Morata,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,59,Álvaro Morata,0.05219636112451553,Head,MissedShots,0.905,0.590999984741211,SetPiece,Paulo Dybala,Cross
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,61,Álvaro Morata,0.015941012650728226,RightFoot,MissedShots,0.7390000152587891,0.605999984741211,OpenPlay,Aaron Ramsey,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,85,Paulo Dybala,0.06285197287797928,LeftFoot,SavedShot,0.8530000305175781,0.515,OpenPlay,Federico Bernardeschi,Cross
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,91,Dejan Kulusevski,0.032584048807621,LeftFoot,SavedShot,0.8119999694824219,0.3870000076293945,SetPiece,,None
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,94,Gianluca Frabotta,0.09511639177799225,LeftFoot,BlockedShot,0.8580000305175781,0.5670000076293945,OpenPlay,Dejan Kulusevski,Pass
+2020-11-28 17:00:00,Benevento,Juventus,1,1,Juventus,95,Rodrigo Bentancur,0.12933844327926636,Head,MissedShots,0.9209999847412109,0.4809999847412109,SetPiece,Federico Bernardeschi,Cross
