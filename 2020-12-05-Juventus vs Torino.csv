@@ -1,0 +1,25 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,0,Cristiano Ronaldo,0.006968791596591473,RightFoot,MissedShots,0.48200000762939454,0.545,OpenPlay,Paulo Dybala,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,10,Rodrigo Bentancur,0.015292791649699211,RightFoot,BlockedShot,0.7080000305175781,0.5379999923706055,OpenPlay,Federico Chiesa,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,33,Paulo Dybala,0.038057487457990646,LeftFoot,BlockedShot,0.735999984741211,0.29399999618530276,DirectFreekick,,Standard
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,40,Leonardo Bonucci,0.32452815771102905,Head,MissedShots,0.9309999847412109,0.555,SetPiece,Rodrigo Bentancur,Chipped
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,42,Paulo Dybala,0.0210876502096653,LeftFoot,SavedShot,0.7919999694824219,0.3170000076293945,OpenPlay,Juan Cuadrado,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,55,Cristiano Ronaldo,0.07226072251796722,LeftFoot,BlockedShot,0.9169999694824219,0.6509999847412109,OpenPlay,Paulo Dybala,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,60,Leonardo Bonucci,0.00920200627297163,RightFoot,MissedShots,0.685,0.4759999847412109,OpenPlay,,Aerial
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,63,Federico Chiesa,0.020180709660053253,RightFoot,MissedShots,0.830999984741211,0.715,OpenPlay,Rodrigo Bentancur,Chipped
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,71,Cristiano Ronaldo,0.048963725566864014,RightFoot,BlockedShot,0.8809999847412109,0.69,OpenPlay,Paulo Dybala,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,76,Federico Chiesa,0.04225143790245056,RightFoot,SavedShot,0.8669999694824219,0.3160000038146973,OpenPlay,Paulo Dybala,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,76,Weston McKennie,0.4434598386287689,Head,Goal,0.9540000152587891,0.5259999847412109,FromCorner,Juan Cuadrado,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,80,Juan Cuadrado,0.013463275507092476,RightFoot,MissedShots,0.7480000305175781,0.40599998474121096,FromCorner,,Aerial
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,82,Alex Sandro,0.0310936588793993,Head,MissedShots,0.9230000305175782,0.5770000076293945,FromCorner,Paulo Dybala,Foul
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,85,Aaron Ramsey,0.5446662306785583,Head,MissedShots,0.9469999694824218,0.4929999923706055,OpenPlay,Juan Cuadrado,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,86,Leonardo Bonucci,0.07294127345085144,Head,MissedShots,0.9269999694824219,0.5720000076293945,FromCorner,Aaron Ramsey,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,88,Paulo Dybala,0.4079229533672333,LeftFoot,BlockedShot,0.94,0.5979999923706054,OpenPlay,Cristiano Ronaldo,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Juventus,88,Leonardo Bonucci,0.41601505875587463,Head,Goal,0.95,0.524000015258789,FromCorner,Juan Cuadrado,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,8,Soualiho Meité,0.05020150914788246,LeftFoot,BlockedShot,0.9590000152587891,0.6170000076293946,FromCorner,Cristian Ansaldi,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,8,Nicolas N'Koulou,0.5781685709953308,RightFoot,Goal,0.9569999694824218,0.549000015258789,FromCorner,,Rebound
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,13,Simone Zaza,0.5622363686561584,LeftFoot,SavedShot,0.885,0.4179999923706055,OpenPlay,Andrea Belotti,Throughball
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,31,Lyanco,0.01705566979944706,RightFoot,MissedShots,0.7140000152587891,0.34900001525878904,OpenPlay,Ricardo Rodríguez,Pass
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,45,Andrea Belotti,0.041576020419597626,RightFoot,MissedShots,0.889000015258789,0.32,OpenPlay,Cristian Ansaldi,Cross
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,51,Ricardo Rodríguez,0.05909232050180435,LeftFoot,BlockedShot,0.7709999847412109,0.3320000076293945,DirectFreekick,,Standard
+2020-12-05 17:00:00,Juventus,Torino,2,1,Torino,93,Jacopo Segre,0.06307816505432129,Head,MissedShots,0.8859999847412109,0.485,OpenPlay,Wilfried Stephane Singo,Cross
