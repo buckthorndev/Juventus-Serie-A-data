@@ -1,0 +1,29 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,19,Federico Bernardeschi,0.4280385673046112,LeftFoot,SavedShot,0.8230000305175781,0.6229999923706054,OpenPlay,Adrien Rabiot,Throughball
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,20,Paulo Dybala,0.02124076709151268,LeftFoot,MissedShots,0.8,0.35200000762939454,FromCorner,,None
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,26,Danilo,0.009531962685286999,RightFoot,MissedShots,0.6580000305175782,0.590999984741211,OpenPlay,Arthur,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,32,Paulo Dybala,0.0522523894906044,LeftFoot,BlockedShot,0.970999984741211,0.315,OpenPlay,,None
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,33,Álvaro Morata,0.029673807322978973,RightFoot,MissedShots,0.99,0.34200000762939453,OpenPlay,Aaron Ramsey,Cross
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,39,Paulo Dybala,0.02092091739177704,LeftFoot,BlockedShot,0.7569999694824219,0.5359999847412109,SetPiece,Juan Cuadrado,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,40,Juan Cuadrado,0.31008800864219666,RightFoot,ShotOnPost,0.9,0.35900001525878905,OpenPlay,Aaron Ramsey,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,62,Paulo Dybala,0.06705641746520996,LeftFoot,BlockedShot,0.8590000152587891,0.41200000762939454,OpenPlay,Álvaro Morata,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,65,Álvaro Morata,0.07227318733930588,Head,BlockedShot,0.8909999847412109,0.4640000152587891,SetPiece,Paulo Dybala,Cross
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,65,Danilo,0.081001415848732,LeftFoot,MissedShots,0.899000015258789,0.44,SetPiece,,None
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,67,Dejan Kulusevski,0.05425802245736122,LeftFoot,BlockedShot,0.8959999847412109,0.6609999847412109,OpenPlay,Álvaro Morata,HeadPass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,69,Paulo Dybala,0.10353788733482361,LeftFoot,BlockedShot,0.8059999847412109,0.37599998474121094,DirectFreekick,,Standard
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,71,Álvaro Morata,0.08596020191907883,RightFoot,SavedShot,0.865999984741211,0.5670000076293945,OpenPlay,Paulo Dybala,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,75,Paulo Dybala,0.02177794650197029,LeftFoot,BlockedShot,0.7580000305175781,0.4570000076293945,OpenPlay,Dejan Kulusevski,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,76,Dejan Kulusevski,0.05255402624607086,LeftFoot,Goal,0.8669999694824219,0.3729999923706055,OpenPlay,Álvaro Morata,TakeOn
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,78,Adrien Rabiot,0.019386008381843567,LeftFoot,MissedShots,0.7519999694824219,0.3890000152587891,OpenPlay,,BallRecovery
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,80,Paulo Dybala,0.02945243939757347,LeftFoot,MissedShots,0.7980000305175782,0.624000015258789,OpenPlay,Dejan Kulusevski,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,85,Paulo Dybala,0.06788258254528046,RightFoot,MissedShots,0.865999984741211,0.37799999237060544,OpenPlay,Juan Cuadrado,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,92,Paulo Dybala,0.12483356893062592,LeftFoot,SavedShot,0.894000015258789,0.5520000076293945,OpenPlay,Giacomo Vrioni,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,92,Álvaro Morata,0.4320409595966339,Head,SavedShot,0.9269999694824219,0.53,OpenPlay,Paulo Dybala,HeadPass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,93,Juan Cuadrado,0.05444437265396118,RightFoot,SavedShot,0.885,0.28899999618530275,OpenPlay,Danilo,TakeOn
+2020-10-25 19:45:00,Juventus,Verona,1,1,Juventus,95,Juan Cuadrado,0.03902863338589668,LeftFoot,BlockedShot,0.7980000305175782,0.4,OpenPlay,Adrien Rabiot,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Verona,7,Nikola Kalinic,0.0573667548596859,Head,BlockedShot,0.9319999694824219,0.534000015258789,SetPiece,Darko Lazovic,Foul
+2020-10-25 19:45:00,Juventus,Verona,1,1,Verona,22,Nikola Kalinic,0.0798344835639,LeftFoot,MissedShots,0.889000015258789,0.6459999847412109,OpenPlay,Adrien Tameze,Pass
+2020-10-25 19:45:00,Juventus,Verona,1,1,Verona,28,Alan Empereur,0.07050362229347229,LeftFoot,MissedShots,0.960999984741211,0.634000015258789,OpenPlay,Darko Lazovic,Chipped
+2020-10-25 19:45:00,Juventus,Verona,1,1,Verona,52,Ebrima Colley,0.028957439586520195,RightFoot,MissedShots,0.7919999694824219,0.37400001525878906,OpenPlay,,None
+2020-10-25 19:45:00,Juventus,Verona,1,1,Verona,55,Mattia Zaccagni,0.019480081275105476,RightFoot,SavedShot,0.749000015258789,0.40700000762939453,OpenPlay,,BallRecovery
+2020-10-25 19:45:00,Juventus,Verona,1,1,Verona,59,Andrea Favilli,0.34376606345176697,LeftFoot,Goal,0.8630000305175781,0.49400001525878906,OpenPlay,Mattia Zaccagni,Pass
