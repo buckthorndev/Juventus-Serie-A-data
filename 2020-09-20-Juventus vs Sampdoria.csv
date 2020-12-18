@@ -1,0 +1,36 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,4,Cristiano Ronaldo,0.030948612838983536,RightFoot,BlockedShot,0.735,0.774000015258789,DirectFreekick,,Standard
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,5,Danilo,0.01329854130744934,RightFoot,MissedShots,0.705,0.35200000762939454,OpenPlay,Weston McKennie,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,10,Cristiano Ronaldo,0.09662576764822006,LeftFoot,SavedShot,0.9419999694824219,0.6419999694824219,OpenPlay,Aaron Ramsey,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,12,Dejan Kulusevski,0.080560602247715,LeftFoot,Goal,0.8530000305175781,0.3579999923706055,OpenPlay,Cristiano Ronaldo,TakeOn
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,23,Cristiano Ronaldo,0.11718602478504181,LeftFoot,ShotOnPost,0.9359999847412109,0.6680000305175782,OpenPlay,Aaron Ramsey,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,33,Cristiano Ronaldo,0.10789737850427628,RightFoot,MissedShots,0.8780000305175781,0.5520000076293945,OpenPlay,,None
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,42,Weston McKennie,0.03631305322051048,LeftFoot,MissedShots,0.79,0.6419999694824219,OpenPlay,Dejan Kulusevski,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,47,Gianluca Frabotta,0.034406498074531555,LeftFoot,SavedShot,0.8580000305175781,0.7290000152587891,OpenPlay,Aaron Ramsey,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,52,Cristiano Ronaldo,0.04685549810528755,RightFoot,BlockedShot,0.8130000305175781,0.6480000305175782,OpenPlay,Aaron Ramsey,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,58,Cristiano Ronaldo,0.1407543122768402,LeftFoot,MissedShots,0.9,0.4879999923706055,OpenPlay,Juan Cuadrado,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,66,Cristiano Ronaldo,0.039769433438777924,LeftFoot,BlockedShot,0.7680000305175781,0.505,OpenPlay,Aaron Ramsey,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,70,Mattia De Sciglio,0.03442452847957611,RightFoot,BlockedShot,0.8180000305175781,0.6990000152587891,OpenPlay,Juan Cuadrado,Chipped
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,72,Cristiano Ronaldo,0.04270252585411072,Head,MissedShots,0.919000015258789,0.4759999847412109,FromCorner,Dejan Kulusevski,Aerial
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,74,Cristiano Ronaldo,0.037038616836071014,RightFoot,SavedShot,0.705,0.6020000076293945,DirectFreekick,,Standard
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,76,Danilo,0.06442312151193619,RightFoot,BlockedShot,0.8480000305175781,0.365,OpenPlay,Juan Cuadrado,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,77,Leonardo Bonucci,0.11154575645923615,Head,BlockedShot,0.925,0.49900001525878906,FromCorner,Dejan Kulusevski,Cross
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,77,Weston McKennie,0.13225610554218292,RightFoot,SavedShot,0.9590000152587891,0.525,FromCorner,,None
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,77,Leonardo Bonucci,0.9275240302085876,RightFoot,Goal,0.9790000152587891,0.48700000762939455,FromCorner,,Rebound
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,84,Weston McKennie,0.08952313661575317,RightFoot,SavedShot,0.8630000305175781,0.43400001525878906,OpenPlay,Cristiano Ronaldo,None
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Juventus,87,Cristiano Ronaldo,0.0814959704875946,RightFoot,Goal,0.8909999847412109,0.33799999237060546,OpenPlay,Aaron Ramsey,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,26,Albin Ekdal,0.052977416664361954,RightFoot,BlockedShot,0.855,0.5359999847412109,FromCorner,Morten Thorsby,BallTouch
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,26,Jakub Jankto,0.031432002782821655,LeftFoot,MissedShots,0.794000015258789,0.63,FromCorner,,Rebound
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,30,Federico Bonazzoli,0.020592642948031425,LeftFoot,MissedShots,0.7530000305175781,0.4809999847412109,OpenPlay,Mehdi Leris,BallRecovery
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,44,Fabio Depaoli,0.05024803429841995,RightFoot,MissedShots,0.8109999847412109,0.3129999923706055,OpenPlay,Federico Bonazzoli,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,51,Federico Bonazzoli,0.09260232001543045,RightFoot,MissedShots,0.9019999694824219,0.48200000762939454,OpenPlay,Bartosz Bereszynski,Cross
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,51,Gastón Ramírez,0.011826102621853352,LeftFoot,MissedShots,0.7719999694824219,0.7559999847412109,OpenPlay,Fabio Quagliarella,GoodSkill
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,57,Bartosz Bereszynski,0.015705347061157227,RightFoot,BlockedShot,0.7330000305175781,0.4370000076293945,OpenPlay,,None
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,57,Morten Thorsby,0.04561610892415047,Head,MissedShots,0.909000015258789,0.509000015258789,OpenPlay,Jakub Jankto,Aerial
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,65,Fabio Quagliarella,0.0546719953417778,RightFoot,MissedShots,0.879000015258789,0.3609999847412109,OpenPlay,,None
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,68,Morten Thorsby,0.07094500958919525,Head,MissedShots,0.9430000305175781,0.47200000762939454,FromCorner,Gastón Ramírez,Aerial
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,76,Fabio Quagliarella,0.03250626102089882,RightFoot,BlockedShot,0.72,0.720999984741211,DirectFreekick,,Standard
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,76,Valerio Verre,0.011005780659615993,LeftFoot,BlockedShot,0.6969999694824218,0.48200000762939454,SetPiece,,Rebound
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,79,Fabio Quagliarella,0.039843205362558365,RightFoot,SavedShot,0.825999984741211,0.33299999237060546,OpenPlay,Valerio Verre,Pass
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,82,Albin Ekdal,0.01237430889159441,Head,MissedShots,0.885,0.6569999694824219,FromCorner,Tommaso Augello,Cross
+2020-09-20 18:45:00,Juventus,Sampdoria,3,0,Sampdoria,86,Fabio Quagliarella,0.0661993995308876,LeftFoot,MissedShots,0.8569999694824219,0.649000015258789,OpenPlay,Valerio Verre,Pass
