@@ -1,0 +1,22 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,1,Simy,0.06104373559355736,RightFoot,MissedShots,0.8130000305175781,0.4590000152587891,OpenPlay,Arkadiusz Reca,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,4,Milos Vulic,0.019087810069322586,RightFoot,BlockedShot,0.7919999694824219,0.725,FromCorner,Luca Cigarini,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,11,Simy,0.7612988352775574,RightFoot,Goal,0.885,0.5,Penalty,,Standard
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,20,Luca Cigarini,0.02333257906138897,RightFoot,MissedShots,0.745999984741211,0.56,OpenPlay,Simy,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,43,Pedro Pereira,0.36407923698425293,LeftFoot,SavedShot,0.9030000305175782,0.39,OpenPlay,,None
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,48,Junior Messias,0.07055018097162247,LeftFoot,BlockedShot,0.8530000305175781,0.6090000152587891,OpenPlay,Arkadiusz Reca,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,54,Luca Cigarini,0.05765899270772934,RightFoot,MissedShots,0.8290000152587891,0.5509999847412109,OpenPlay,Junior Messias,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,70,Luca Cigarini,0.01577955111861229,RightFoot,MissedShots,0.750999984741211,0.37200000762939456,OpenPlay,,None
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,85,Luca Siligardi,0.011288396082818508,Head,SavedShot,0.915,0.34200000762939453,OpenPlay,Andrea Rispoli,Cross
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Crotone,92,Arkadiusz Reca,0.011103261262178421,LeftFoot,MissedShots,0.7930000305175782,0.7780000305175782,OpenPlay,Luca Siligardi,Chipped
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,7,Manolo Portanova,0.051560524851083755,RightFoot,BlockedShot,0.8980000305175782,0.40700000762939453,FromCorner,Federico Chiesa,Cross
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,17,Álvaro Morata,0.05316789820790291,LeftFoot,MissedShots,0.8880000305175781,0.5629999923706055,FromCorner,Dejan Kulusevski,Cross
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,20,Álvaro Morata,0.9151753783226013,LeftFoot,Goal,0.9740000152587891,0.5120000076293946,OpenPlay,Federico Chiesa,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,24,Manolo Portanova,0.029621616005897522,RightFoot,MissedShots,0.715,0.7469999694824219,DirectFreekick,,Standard
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,24,Dejan Kulusevski,0.015696097165346146,LeftFoot,MissedShots,0.78,0.28,OpenPlay,Federico Chiesa,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,34,Álvaro Morata,0.03281855210661888,Head,MissedShots,0.9259999847412109,0.39099998474121095,FromCorner,Dejan Kulusevski,Cross
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,39,Manolo Portanova,0.05869602784514427,RightFoot,MissedShots,0.8180000305175781,0.5509999847412109,OpenPlay,Dejan Kulusevski,Pass
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,41,Manolo Portanova,0.3469966650009155,RightFoot,SavedShot,0.9119999694824219,0.3659999847412109,OpenPlay,Álvaro Morata,Throughball
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,45,Rodrigo Bentancur,0.019659150391817093,RightFoot,MissedShots,0.764000015258789,0.6179999923706054,OpenPlay,,None
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,62,Álvaro Morata,0.010373339988291264,Head,ShotOnPost,0.874000015258789,0.605999984741211,SetPiece,Dejan Kulusevski,Aerial
+2020-10-17 18:45:00,Crotone,Juventus,1,1,Juventus,75,Juan Cuadrado,0.05117323249578476,RightFoot,BlockedShot,0.8880000305175781,0.3189999961853027,OpenPlay,Rodrigo Bentancur,TakeOn
