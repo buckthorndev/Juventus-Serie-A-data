@@ -1,0 +1,20 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,11,Henrikh Mkhitaryan,0.5469970107078552,RightFoot,SavedShot,0.889000015258789,0.45799999237060546,OpenPlay,Lorenzo Pellegrini,TakeOn
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,16,Leonardo Spinazzola,0.042513880878686905,RightFoot,BlockedShot,0.8440000152587891,0.6569999694824219,OpenPlay,Pedro,Pass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,29,Jordan Veretout,0.05155318230390549,LeftFoot,BlockedShot,0.8219999694824218,0.425,OpenPlay,,None
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,30,Jordan Veretout,0.7612988352775574,RightFoot,Goal,0.885,0.5,Penalty,,Standard
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,45,Jordan Veretout,0.5065723657608032,LeftFoot,Goal,0.885,0.5359999847412109,OpenPlay,Henrikh Mkhitaryan,Pass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,50,Pedro,0.012502087280154228,RightFoot,SavedShot,0.754000015258789,0.7609999847412109,FromCorner,,None
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,50,Edin Dzeko,0.012691858224570751,Head,MissedShots,0.885,0.580999984741211,FromCorner,Lorenzo Pellegrini,Aerial
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,55,Leonardo Spinazzola,0.07207184284925461,RightFoot,MissedShots,0.885,0.6719999694824219,OpenPlay,Edin Dzeko,Pass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,55,Edin Dzeko,0.35650959610939026,LeftFoot,ShotOnPost,0.88,0.4490000152587891,OpenPlay,Leonardo Spinazzola,TakeOn
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,63,Edin Dzeko,0.4183045029640198,RightFoot,SavedShot,0.89,0.475,OpenPlay,Davide Santon,Pass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Roma,81,Pedro,0.0371498167514801,LeftFoot,BlockedShot,0.8180000305175781,0.53,OpenPlay,Edin Dzeko,HeadPass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,7,Cristiano Ronaldo,0.021231822669506073,RightFoot,BlockedShot,0.845999984741211,0.8159999847412109,OpenPlay,Juan Cuadrado,Pass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,16,Álvaro Morata,0.04766355827450752,Head,MissedShots,0.8730000305175781,0.4929999923706055,SetPiece,Dejan Kulusevski,Cross
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,43,Cristiano Ronaldo,0.7612988352775574,RightFoot,Goal,0.885,0.5,Penalty,,Standard
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,56,Cristiano Ronaldo,0.397727906703949,RightFoot,SavedShot,0.8780000305175781,0.5220000076293946,OpenPlay,Álvaro Morata,None
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,64,Aaron Ramsey,0.03719792515039444,RightFoot,MissedShots,0.779000015258789,0.4809999847412109,OpenPlay,Arthur,Pass
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,68,Cristiano Ronaldo,0.5642630457878113,Head,Goal,0.9580000305175781,0.5070000076293946,OpenPlay,Danilo,Cross
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,88,Danilo,0.04837752878665924,Head,MissedShots,0.9259999847412109,0.40599998474121096,FromCorner,Douglas Costa,Cross
+2020-09-27 18:45:00,Roma,Juventus,2,2,Juventus,92,Giorgio Chiellini,0.02951645664870739,LeftFoot,MissedShots,0.874000015258789,0.3890000152587891,SetPiece,Juan Cuadrado,Cross
