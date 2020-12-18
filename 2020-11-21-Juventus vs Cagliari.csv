@@ -1,0 +1,28 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,14,Adrien Rabiot,0.010613543912768364,LeftFoot,SavedShot,0.6840000152587891,0.3579999923706055,OpenPlay,Dejan Kulusevski,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,18,Federico Bernardeschi,0.029705407097935677,LeftFoot,MissedShots,0.8519999694824218,0.7240000152587891,OpenPlay,,None
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,22,Cristiano Ronaldo,0.04485977441072464,RightFoot,BlockedShot,0.8469999694824218,0.35200000762939454,OpenPlay,Dejan Kulusevski,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,22,Matthijs de Ligt,0.0509146973490715,Head,MissedShots,0.8930000305175781,0.47900001525878905,FromCorner,Juan Cuadrado,Cross
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,22,Dejan Kulusevski,0.0726889967918396,RightFoot,BlockedShot,0.905,0.624000015258789,FromCorner,Matthijs de Ligt,Rebound
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,25,Álvaro Morata,0.04104256629943848,Head,MissedShots,0.92,0.46700000762939453,FromCorner,Juan Cuadrado,Aerial
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,28,Dejan Kulusevski,0.038267266005277634,LeftFoot,MissedShots,0.9019999694824219,0.28899999618530275,OpenPlay,Juan Cuadrado,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,29,Merih Demiral,0.01931903511285782,Head,BlockedShot,0.9009999847412109,0.539000015258789,FromCorner,Juan Cuadrado,Aerial
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,36,Federico Bernardeschi,0.014945395290851593,LeftFoot,SavedShot,0.7519999694824219,0.5379999923706055,SetPiece,,None
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,37,Cristiano Ronaldo,0.09392134845256805,RightFoot,Goal,0.8640000152587891,0.595999984741211,OpenPlay,Álvaro Morata,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,41,Dejan Kulusevski,0.06424931436777115,LeftFoot,BlockedShot,0.8619999694824219,0.355,OpenPlay,Cristiano Ronaldo,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,41,Merih Demiral,0.040386732667684555,OtherBodyPart,MissedShots,0.899000015258789,0.5059999847412109,FromCorner,Juan Cuadrado,Aerial
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,41,Cristiano Ronaldo,0.6149137616157532,RightFoot,Goal,0.9630000305175781,0.5429999923706055,FromCorner,Merih Demiral,Rebound
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,46,Cristiano Ronaldo,0.026497649028897285,RightFoot,BlockedShot,0.785,0.6819999694824219,FromCorner,Arthur,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,52,Juan Cuadrado,0.0850689634680748,RightFoot,BlockedShot,0.9109999847412109,0.31,OpenPlay,Merih Demiral,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,52,Merih Demiral,0.18690718710422516,Head,ShotOnPost,0.919000015258789,0.5329999923706055,FromCorner,Juan Cuadrado,Aerial
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,55,Federico Bernardeschi,0.37437310814857483,LeftFoot,SavedShot,0.874000015258789,0.56,OpenPlay,Dejan Kulusevski,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,62,Cristiano Ronaldo,0.055997442454099655,RightFoot,MissedShots,0.8090000152587891,0.395,OpenPlay,Álvaro Morata,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,64,Álvaro Morata,0.4227268695831299,RightFoot,MissedShots,0.8619999694824219,0.5670000076293945,OpenPlay,Federico Bernardeschi,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,75,Dejan Kulusevski,0.10563673824071884,LeftFoot,BlockedShot,0.875999984741211,0.4640000152587891,OpenPlay,,None
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,85,Paulo Dybala,0.12310872972011566,LeftFoot,MissedShots,0.8540000152587891,0.51,OpenPlay,Federico Bernardeschi,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,89,Paulo Dybala,0.038088832050561905,LeftFoot,BlockedShot,0.8809999847412109,0.295,OpenPlay,Cristiano Ronaldo,Cross
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Juventus,92,Federico Bernardeschi,0.02229657769203186,LeftFoot,SavedShot,0.7830000305175782,0.3940000152587891,OpenPlay,Cristiano Ronaldo,TakeOn
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Cagliari,39,Ragnar Klavan,0.015843302011489868,LeftFoot,MissedShots,0.72,0.509000015258789,OpenPlay,Razvan Marin,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Cagliari,54,Adam Ounas,0.04239740967750549,LeftFoot,BlockedShot,0.8059999847412109,0.49700000762939456,OpenPlay,João Pedro,Pass
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Cagliari,56,Razvan Marin,0.00984104536473751,RightFoot,MissedShots,0.725999984741211,0.49400001525878906,OpenPlay,,None
+2020-11-21 19:45:00,Juventus,Cagliari,2,0,Cagliari,61,Marko Rog,0.01507662981748581,RightFoot,MissedShots,0.735999984741211,0.519000015258789,OpenPlay,Riccardo Sottil,Pass
