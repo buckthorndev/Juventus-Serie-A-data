@@ -1,0 +1,26 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,0,Vedat Muriqi,0.11394865065813065,Head,SavedShot,0.91,0.5459999847412109,OpenPlay,Sergej Milinkovic-Savic,Cross
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,1,Danilo Cataldi,0.0718143880367279,LeftFoot,MissedShots,0.8380000305175781,0.549000015258789,OpenPlay,Mohamed Fares,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,10,Vedat Muriqi,0.019941598176956177,RightFoot,BlockedShot,0.7269999694824218,0.49700000762939456,OpenPlay,Joaquín Correa,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,18,Joaquín Correa,0.029384838417172432,RightFoot,MissedShots,0.769000015258789,0.4909999847412109,OpenPlay,Danilo Cataldi,Chipped
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,30,Joaquín Correa,0.05380510166287422,RightFoot,SavedShot,0.8669999694824219,0.6730000305175782,OpenPlay,Luis Alberto,TakeOn
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,36,Sergej Milinkovic-Savic,0.051631346344947815,LeftFoot,BlockedShot,0.8240000152587891,0.5279999923706055,OpenPlay,,BallRecovery
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,36,Vedat Muriqi,0.041431672871112823,LeftFoot,MissedShots,0.9480000305175781,0.7230000305175781,OpenPlay,Joaquín Correa,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,48,Adam Marusic,0.03093547187745571,LeftFoot,MissedShots,0.8580000305175781,0.25799999237060545,OpenPlay,Sergej Milinkovic-Savic,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,55,Manuel Lazzari,0.016379034146666527,RightFoot,BlockedShot,0.7290000152587891,0.40099998474121096,OpenPlay,Luis Alberto,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,68,Joaquín Correa,0.07209084928035736,RightFoot,BlockedShot,0.9490000152587891,0.685,OpenPlay,Adam Marusic,TakeOn
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,73,Sergej Milinkovic-Savic,0.06987602263689041,RightFoot,BlockedShot,0.7859999847412109,0.6630000305175782,DirectFreekick,,Standard
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,74,Luis Alberto,0.011368485167622566,RightFoot,BlockedShot,0.749000015258789,0.654000015258789,FromCorner,Luiz Felipe,HeadPass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,80,Adam Marusic,0.4061596989631653,Head,SavedShot,0.9459999847412109,0.5420000076293945,OpenPlay,Sergej Milinkovic-Savic,Aerial
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Lazio,94,Felipe Caicedo,0.088360995054245,RightFoot,Goal,0.8780000305175781,0.5879999923706055,OpenPlay,Joaquín Correa,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,7,Cristiano Ronaldo,0.06624112278223038,RightFoot,SavedShot,0.855,0.6840000152587891,OpenPlay,Adrien Rabiot,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,10,Adrien Rabiot,0.016793351620435715,LeftFoot,SavedShot,0.7290000152587891,0.5779999923706055,OpenPlay,Juan Cuadrado,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,14,Cristiano Ronaldo,0.6030169129371643,RightFoot,Goal,0.9680000305175781,0.4979999923706055,OpenPlay,Juan Cuadrado,Chipped
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,36,Cristiano Ronaldo,0.04685124382376671,RightFoot,MissedShots,0.7759999847412109,0.66,OpenPlay,Álvaro Morata,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,42,Cristiano Ronaldo,0.10769430547952652,RightFoot,ShotOnPost,0.85,0.515,OpenPlay,Dejan Kulusevski,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,45,Dejan Kulusevski,0.07028279453516006,RightFoot,MissedShots,0.8619999694824219,0.4329999923706055,OpenPlay,Adrien Rabiot,Chipped
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,46,Cristiano Ronaldo,0.08595483005046844,RightFoot,SavedShot,0.7780000305175782,0.42700000762939455,DirectFreekick,,Standard
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,47,Rodrigo Bentancur,0.022883405908942223,RightFoot,MissedShots,0.7340000152587891,0.5070000076293946,OpenPlay,Cristiano Ronaldo,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,57,Adrien Rabiot,0.07325128465890884,LeftFoot,SavedShot,0.8919999694824219,0.7230000305175781,OpenPlay,Álvaro Morata,Pass
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,65,Adrien Rabiot,0.10697878897190094,Head,MissedShots,0.94,0.5320000076293945,OpenPlay,Juan Cuadrado,Aerial
+2020-11-08 11:30:00,Lazio,Juventus,1,1,Juventus,67,Dejan Kulusevski,0.0720645934343338,RightFoot,BlockedShot,0.8119999694824219,0.5459999847412109,OpenPlay,Álvaro Morata,Pass
