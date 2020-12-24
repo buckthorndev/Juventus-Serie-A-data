@@ -1,0 +1,25 @@
+Date,Home,Away,Home Goals,Away Goals,Team,Minute,Player,xG,Shot Type,Result,X Coordinate,Y Coordinate,Situation,Assist Player,Last Action
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,4,Cristiano Ronaldo,0.033952746540308,RightFoot,BlockedShot,0.7230000305175781,0.7119999694824218,DirectFreekick,,Standard
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,5,Cristiano Ronaldo,0.02014993131160736,RightFoot,BlockedShot,0.7519999694824219,0.6079999923706054,OpenPlay,Aaron Ramsey,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,22,Matthijs de Ligt,0.014546801336109638,Head,BlockedShot,0.9009999847412109,0.5870000076293945,SetPiece,Danilo,Aerial
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,31,Cristiano Ronaldo,0.06468473374843597,LeftFoot,MissedShots,0.909000015258789,0.6940000152587891,OpenPlay,Weston McKennie,TakeOn
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,36,Cristiano Ronaldo,0.014561581425368786,RightFoot,SavedShot,0.6919999694824219,0.5629999923706055,OpenPlay,Weston McKennie,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,46,Cristiano Ronaldo,0.04442863166332245,RightFoot,BlockedShot,0.9590000152587891,0.89,DirectFreekick,,Standard
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,46,Rodrigo Bentancur,0.020206695422530174,RightFoot,SavedShot,0.749000015258789,0.695,FromCorner,Cristiano Ronaldo,TakeOn
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,57,Weston McKennie,0.027962863445281982,Head,BlockedShot,0.8980000305175782,0.43,OpenPlay,Danilo,Aerial
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,59,Danilo,0.023269223049283028,LeftFoot,MissedShots,0.7759999847412109,0.33,OpenPlay,Cristiano Ronaldo,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,67,Alex Sandro,0.019895635545253754,Head,BlockedShot,0.870999984741211,0.615,OpenPlay,Cristiano Ronaldo,Foul
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,68,Cristiano Ronaldo,0.024824058637022972,LeftFoot,BlockedShot,0.7530000305175781,0.5420000076293945,OpenPlay,,TakeOn
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,70,Federico Chiesa,0.04619736969470978,RightFoot,SavedShot,0.9009999847412109,0.27700000762939453,OpenPlay,Danilo,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,71,Alex Sandro,0.03340812027454376,LeftFoot,MissedShots,0.7909999847412109,0.605999984741211,OpenPlay,Federico Bernardeschi,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Juventus,75,Alex Sandro,0,RightFoot,OwnGoal,0.024000000953674317,0.5179999923706055,OpenPlay,,None
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,2,Dusan Vlahovic,0.49495261907577515,LeftFoot,Goal,0.8919999694824219,0.6379999923706055,OpenPlay,Franck Ribéry,Throughball
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,23,Borja Valero,0.014468437060713768,LeftFoot,BlockedShot,0.7969999694824219,0.3220000076293945,FromCorner,,Aerial
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,24,Borja Valero,0.088627390563488,LeftFoot,MissedShots,0.9419999694824219,0.654000015258789,OpenPlay,Dusan Vlahovic,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,25,Gaetano Castrovilli,0.11213215440511703,RightFoot,SavedShot,0.899000015258789,0.5890000152587891,OpenPlay,Dusan Vlahovic,BallTouch
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,41,Sofyan Amrabat,0.025321029126644135,LeftFoot,SavedShot,0.835999984741211,0.3659999847412109,OpenPlay,,Aerial
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,62,Erick Pulgar,0.020290037617087364,RightFoot,MissedShots,0.7719999694824219,0.44,FromCorner,,None
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,74,Sofyan Amrabat,0.07942330092191696,RightFoot,BlockedShot,0.874000015258789,0.3659999847412109,OpenPlay,Christian Kouamé,Pass
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,80,Martín Cáceres,0.6156675219535828,LeftFoot,Goal,0.965,0.504000015258789,OpenPlay,Cristiano Biraghi,Cross
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,88,Giacomo Bonaventura,0.03308567777276039,Head,MissedShots,0.8780000305175781,0.4520000076293945,SetPiece,Erick Pulgar,Cross
+2020-12-22 19:45:00,Juventus,Fiorentina,0,3,Fiorentina,89,Giacomo Bonaventura,0.04720021039247513,RightFoot,SavedShot,0.7959999847412109,0.6409999847412109,OpenPlay,Lorenzo Venuti,Pass
